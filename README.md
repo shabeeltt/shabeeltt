@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shabeett.official@gmail.com or via LinkedIn at www.linkedin.com/in/shabeeltt.**
 
-- ⚡ Fun fact **I once studied the wrong subject for my exam and realized it just the evening before—still managed an A+!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
