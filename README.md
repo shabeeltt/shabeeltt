@@ -2,7 +2,7 @@
 <h3 align="center">I’m a web developer passionate about creating clean and efficient web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjc3VsMGcwbXo2MXYzZWN2aWtjaDd3eWpjYnduYTE4aWtzMnJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on **netflix-clone-react project**
+- 🔭 I’m currently working on **Gadget-Nest-Ecommerce**
 
 - 🌱 I’m currently learning **Redux, Data structures...**
 
