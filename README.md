@@ -2,11 +2,12 @@
 <h3 align="center">I’m a web developer passionate about creating clean and efficient web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjc3VsMGcwbXo2MXYzZWN2aWtjaDd3eWpjYnduYTE4aWtzMnJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on **Gadget-Nest-Ecommerce**
 
-- 🌱 I’m currently learning **Redux, Data structures...**
+- 🌐 I work primarily with JavaScript, React, Node.js, and modern web stacks
 
-- 💬 Ask me about **React, Node.js, full-stack development, or best practices in web development!**
+- 🧠 Always exploring software architecture, design patterns, and performance optimization
+
+- 🤝 Open to connecting with developers, mentors, and teams pushing for clean, efficient code
 
 - 📫 How to reach me **shabeett.official@gmail.com or via LinkedIn at www.linkedin.com/in/shabeeltt.**
 
