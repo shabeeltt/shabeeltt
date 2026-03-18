@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hi... I'm Shabeel TT</h1>
+<h1 align="center"> Hi... I'm Shabeel TT</h1>
 <h3 align="center">I’m a web developer passionate about creating clean and efficient web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjc3VsMGcwbXo2MXYzZWN2aWtjaDd3eWpjYnduYTE4aWtzMnJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-- 🌐 I work primarily with JavaScript, React, Node.js, and modern web stacks
+-  I work primarily with JavaScript, React, Node.js, and modern web stacks
 
-- 🧠 Always exploring software architecture, design patterns, and performance optimization
+-  Always exploring software architecture, design patterns, and performance optimization
 
-- 🤝 Open to connecting with developers, mentors, and teams pushing for clean, efficient code
+-  Open to connecting with developers, mentors, and teams pushing for clean, efficient code
 
-- 📫 How to reach me **shabeett.official@gmail.com or via LinkedIn at www.linkedin.com/in/shabeeltt.**
+-  How to reach me **shabeett.official@gmail.com or via LinkedIn at www.linkedin.com/in/shabeeltt.**
 
 
 
@@ -79,5 +79,14 @@
        height="40"
        style="margin-right: 20px;" />
 </a>
+
+###  GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Shabeel's GitHub stats" />
+</p>
 
 </p>
