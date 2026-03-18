@@ -81,12 +81,15 @@
 </a>
 
 ###  GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Shabeel's GitHub stats" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=cmake,scss,html,css" height="150px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" height="150px" />
+    </td>
+  </tr>
+</table>
 
 </p>
