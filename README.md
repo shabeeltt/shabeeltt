@@ -80,16 +80,15 @@
        style="margin-right: 20px;" />
 </a>
 
-###  GitHub Stats
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=cmake,scss,html,css" height="150px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" height="150px" />
-    </td>
-  </tr>
-</table>
+### GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="GitHub Stats" height="170" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=cmake,scss,html,css" alt="Top Languages" height="170" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabeeltt&theme=vision-friendly-dark" alt="GitHub Streak" height="170" />
+</p>
+
