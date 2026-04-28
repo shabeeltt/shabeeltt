@@ -1,63 +1,71 @@
-<h1 align="center"> Hi... I'm Shabeel TT</h1>
-<h3 align="center">I’m a web developer passionate about creating clean and efficient web applications.</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjc3VsMGcwbXo2MXYzZWN2aWtjaDd3eWpjYnduYTE4aWtzMnJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<div align="center" style="margin-bottom: -20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=58a6ff&height=110&section=header&text=Shabeel%20TT&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=60" width="100%" />
+</div>
 
+<div align="center" style="margin-top: -10px;">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Clean+Code+Enthusiast;React+%E2%80%A2+Node+%E2%80%A2+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
+  </h1>
+</div>
 
--  I work primarily with JavaScript, React, Node.js, and modern web stacks
+---
 
--  Always exploring software architecture, design patterns, and performance optimization
+### ⚡ About Me
 
--  Open to connecting with developers, mentors, and teams pushing for clean, efficient code
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVjc3VsMGcwbXo2MXYzZWN2aWtjaDd3eWpjYnduYTE4aWtzMnJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="coding" style="border-radius: 10px;" />
 
--  How to reach me:  
-   📧 **shabeett.official@gmail.com**  
-   🌐 [Portfolio](https://shabeel-portfolio.vercel.app/)  
-   🔗 [LinkedIn](https://linkedin.com/in/shabeeltt)
+I craft clean, efficient web applications where code quality and performance are non-negotiable. I specialize in the modern JavaScript ecosystem, focusing on building systems that are as maintainable as they are powerful.
 
+* 🛠️ **Core Stacks:** Primarily working with **React, Node.js, and TypeScript**.
+* 🚀 **Philosophy:** Writing code that is "human-readable" first, and "machine-optimized" second.
+* 🧪 **Projects:** This profile showcases my open-source contributions and personal experiments.
+* 📧 **Reach Me:** [shabeett.official@gmail.com](mailto:shabeett.official@gmail.com)
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shabeeltt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabeeltt" height="30" width="40" /></a>
+<div align="left">
+  <a href="https://shabeel-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shabeeltt" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br clear="right"/>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,astro,flutter,mongodb,mysql,firebase,gcp,git,jest,sass,bootstrap,html,css&theme=dark" />
+</div>
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=tokyonight&hide_border=true&hide=cmake,scss,html,css" alt="Top Languages" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<table>
-<tr>
-<td><a href="https://getbootstrap.com"><img src="https://img.icons8.com/color-glass/48/bootstrap.png" width="40"></a></td>
-<td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://expressjs.com"><img src="https://img.icons8.com/nolan/64/express-js.png" width="40"></a></td>
-<td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"></a></td>
-<td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"></a></td>
-<td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a></td>
-<td><a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"></a></td>
-<td><a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="40"></a></td>
-</tr>
-
-<tr>
-<td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"></a></td>
-<td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"></a></td>
-<td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"></a></td>
-<td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"></a></td>
-<td><a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"></a></td>
-<td><a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"></a></td>
-</tr>
-</table>
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shabeeltt&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="GitHub Stats" height="170" />
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=vision-friendly-dark&hide=cmake,scss,html,css" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabeeltt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabeeltt&theme=vision-friendly-dark" alt="GitHub Streak" height="170" />
-</p>
+---
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabeeltt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+</div>
