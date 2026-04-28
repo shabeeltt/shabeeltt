@@ -9,7 +9,10 @@
 
 -  Open to connecting with developers, mentors, and teams pushing for clean, efficient code
 
--  How to reach me **shabeett.official@gmail.com or via LinkedIn at www.linkedin.com/in/shabeeltt.**
+-  How to reach me:  
+   📧 **shabeett.official@gmail.com**  
+   🌐 [Portfolio](https://shabeel-portfolio.vercel.app/)  
+   🔗 [LinkedIn](https://linkedin.com/in/shabeeltt)
 
 
 
@@ -30,6 +33,7 @@
 <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a></td>
 <td><a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"></a></td>
+<td><a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="40"></a></td>
 </tr>
 
 <tr>
