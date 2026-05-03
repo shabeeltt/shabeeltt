@@ -33,13 +33,12 @@ Each has its own README covering what it does and the decisions behind it.
 
 ---
 
-## Stats
+### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shabeeltt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss&card_width=495)
-
----
+<p align="left">
+<img src="https://github-stats-extended.vercel.app/api?username=shabeeltt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
+</p>
 
 ## Contact
 
