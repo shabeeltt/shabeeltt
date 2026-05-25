@@ -42,5 +42,5 @@ Each has its own README covering what it does and the decisions behind it.
 
 ## Contact
 
-shabeett.official@gmail.com  
+shabeeltt.official@gmail.com  
 [Portfolio](https://shabeel-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/shabeeltt)
