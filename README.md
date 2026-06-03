@@ -1,8 +1,8 @@
 # Shabeel TT
 
-Full-stack developer working with React, Node.js, and TypeScript.  
-I build end-to-end web applications — REST APIs, database design, and frontend interfaces that are clean and functional.  
-I care about writing code that's easy to read, easy to maintain, and actually works in production.
+Full-stack developer focused on React, Node.js, and TypeScript.
+
+I build end-to-end web applications, from database design and REST APIs to performant frontend interfaces. My focus is maintainable code, practical architecture, and products that hold up in production.
 
 ---
 
@@ -18,11 +18,13 @@ I care about writing code that's easy to read, easy to maintain, and actually wo
 
 ---
 
-## What I work on
+## What I build
 
-Mostly full-stack products — dashboards, internal tools, and consumer-facing apps.  
-On the backend I focus on API design, data modelling, and keeping things reliable under real usage.  
-On the frontend I keep things functional and performant over decorative.
+- Internal tools and business dashboards
+- Full-stack SaaS applications
+- REST APIs and backend services
+- Developer-focused tooling and automation
+- Experimental side projects used to explore new technologies
 
 ---
 
@@ -39,6 +41,8 @@ Each has its own README covering what it does and the decisions behind it.
 <img src="https://github-stats-extended.vercel.app/api?username=shabeeltt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shabeeltt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=shabeeltt&style=flat-square)
 
 ## Contact
 
