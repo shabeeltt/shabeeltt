@@ -44,6 +44,8 @@ Each has its own README covering what it does and the decisions behind it.
 
 ![](https://komarev.com/ghpvc/?username=shabeeltt&style=flat-square)
 
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/shabeel_tt)
+
 ## Contact
 
 shabeeltt.official@gmail.com  
